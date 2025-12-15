@@ -1,0 +1,131 @@
+{
+    "title": {
+        "media": {
+			"url": "https://www.flickr.com/photos/86372217@N00/7693111008",
+			"caption": "Sculpture of Alan Turing by Stephen Kettle.",
+			"credit": "flickr/<a href='https://www.flickr.com/photos/86372217@N00/'>86372217@N00</a>"
+		},
+        "text": {
+            "headline": "Alan Turing<br/> 1912 - 1954",
+            "text": "<p>Alan Mathison Turing là cha đẻ của khoa học máy tính và trí tuệ nhân tạo (AI). Ông là một nhà toán học, nhà logic học, chuyên gia mật mã và nhà sinh học lý thuyết người Anh.</p>"
+        }
+    },
+    "events": [
+        {
+            "media": {
+                "url": "https://www.flickr.com/photos/72616463@N00/34930538176/",
+                "caption": "Nơi Alan Turing sinh ra và lớn lên.",
+                "credit": "flickr/<a href='https://www.flickr.com/photos/72616463@N00/'>72616463@N00</a>"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "23",
+                "year": "1912"
+            },
+            "text": {
+                "headline": "Chào đời tại London",
+                "text": "<p>Alan Mathison Turing sinh ngày 23 tháng 6 năm 1912 tại Maida Vale, London. Ngay từ nhỏ, ông đã bộc lộ những dấu hiệu thiên tài về toán học và khoa học.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Turing_machine_2b.svg/1200px-Turing_machine_2b.svg.png",
+                "caption": "Mô hình minh họa Máy Turing.",
+                "credit": "Wikimedia Commons"
+            },
+            "start_date": {
+                "year": "1936"
+            },
+            "text": {
+                "headline": "Máy Turing (The Turing Machine)",
+                "text": "<p>Turing công bố bài báo 'On Computable Numbers', trong đó ông đề xuất một thiết bị lý thuyết gọi là 'Máy Turing'. Thiết bị này có thể thực hiện bất kỳ phép toán logic nào và được coi là mô hình của máy tính hiện đại ngày nay.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.cryptomuseum.com/crypto/bombe/img/us_bombe_full.jpg",
+                "caption": "Máy Bombe dùng để giải mã Enigma được trưng bày tại Bletchley Park.",
+                "credit": "cryptomuseum/<a href ='https://www.cryptomuseum.com/crypto/bombe/'>bombe</a>"
+            },
+            "start_date": {
+                "year": "1939"
+            },
+            "text": {
+                "headline": "Phá mã Enigma",
+                "text": "<p>Khi Chiến tranh thế giới thứ 2 nổ ra, Turing đến làm việc tại Bletchley Park. Ông đã thiết kế máy 'Bombe' giúp quân Đồng minh phá giải hệ thống mã hóa Enigma của Đức Quốc xã, góp phần rút ngắn chiến tranh và cứu hàng triệu sinh mạng.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://coimages.sciencemuseumgroup.org.uk/31/183/medium_e2007_170_1__0008_.jpg",
+                "caption": "Mô hình máy tính ACE do Turing thiết kế.",
+                "credit": "sciencemuseumgroup/<a href='https://collection.sciencemuseumgroup.org.uk/objects/co62349/automatic-computing-engine-ace-pilot-model-1949'>ACE</a>"
+            },
+            "start_date": {
+                "year": "1945"	
+            },
+            "text": {
+                "headline": "Thiết kế máy tính ACE",
+                "text": "<p>Sau chiến tranh, Turing làm việc tại Phòng thí nghiệm Vật lý Quốc gia (NPL) và thiết kế 'Automatic Computing Engine' (ACE) - một trong những bản thiết kế đầu tiên cho máy tính lưu trữ chương trình.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://towardsdatascience.com/wp-content/uploads/2024/02/1QVf-_ItwrSEm5ROyhv39kQ.png",
+                "caption": "Minh họa về bài kiểm tra Turing Test.",
+                "credit": "arXiv/<a href='https://arxiv.org/pdf/2011.09159'>Kejriwal</a>"
+            },
+            "start_date": {
+                "year": "1950"
+            },
+            "text": {
+                "headline": "Phép thử Turing (The Turing Test)",
+                "text": "<p>Turing công bố bài báo nổi tiếng 'Computing Machinery and Intelligence'. Ông đặt câu hỏi 'Máy móc có thể suy nghĩ không?' và đề xuất 'Trò chơi bắt chước' (Imitation Game), sau này được gọi là Turing Test, để kiểm tra trí thông minh của AI.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://www.flickr.com/photos/140726102@N02/35691274691",
+                "caption": "Tượng đài Alan Turing tại Manchester.",
+                "credit": "flickr/ <a href='https://www.flickr.com/photos/140726102@N02/'>140726102@N02</a>"
+            },
+            "start_date": {
+                "year": "1952"
+            },
+            "text": {
+                "headline": "Bị kết án",
+                "text": "<p>Turing bị kết án vì hành vi đồng tính luyến ái (lúc đó được coi là tội phạm ở Anh). Ông buộc phải chọn giữa việc ngồi tù hoặc bị 'thiến hóa học' bằng liệu pháp hormone. Ông đã chọn liệu pháp hormone.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/675px-Alan_Turing_Aged_16.jpg",
+                "caption": "Di sản của Alan Turing sống mãi.",
+                "credit": "<a href ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alan_Turing_Aged_16.jpg/675px-Alan_Turing_Aged_16.jpg'Wikimedia Commons"
+            },
+            "start_date": {
+                "month": "6",
+                "day": "7",
+                "year": "1954"
+            },
+            "text": {
+                "headline": "Qua đời",
+                "text": "<p>Alan Turing qua đời vào ngày 7 tháng 6 năm 1954 do ngộ độc xyanua. Cái chết của ông được kết luận là tự sát, dù vẫn còn nhiều tranh cãi xung quanh nguyên nhân thực sự.</p>"
+            }
+        },
+        {
+            "media": {
+                "url": "https://suckhoedoisong.qltns.mediacdn.vn/thumb_w/640/324455921873985536/2022/9/9/126600043queenelizabeth-chrislevine-ncjpg-1662685381440560238567.jpeg",
+                "caption": "Nữ hoàng Elizabeth II.",
+                "credit": "Sức khỏe đời sống"
+            },
+            "start_date": {
+                "year": "2013"
+            },
+            "text": {
+                "headline": "Được ân xá hoàng gia",
+                "text": "<p>Gần 60 năm sau khi qua đời, Nữ hoàng Elizabeth II đã chính thức ban lệnh ân xá cho Alan Turing, công nhận những đóng góp to lớn của ông và sửa chữa sai lầm của lịch sử.</p>"
+            }
+        }
+    ]
+}
